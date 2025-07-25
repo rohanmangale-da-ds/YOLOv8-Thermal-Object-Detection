@@ -27,3 +27,6 @@ train.py               # Script to train YOLOv8
 predict.py             # Inference on custom images
 utils.py               # Visualization tools
 
+
+<img width="1636" height="2990" alt="image" src="https://github.com/user-attachments/assets/915488fa-c746-43ba-bf28-6a94eb3721a9" />
+
