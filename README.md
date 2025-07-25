@@ -1,7 +1,6 @@
 # YOLOv8 Thermal Object Detection 🔥🎯
-<img width="766" height="658" alt="image" src="https://github.com/user-attachments/assets/9d172ca1-a319-42ee-aff3-9dd03e04ca7e" />
-
 This project uses YOLOv8 to detect objects like **Person**, **Car**, **Bicycle**, etc. in thermal infrared images from the [HIT-UAV dataset](https://example.com).
+<img width="766" height="658" alt="image" src="https://github.com/user-attachments/assets/9d172ca1-a319-42ee-aff3-9dd03e04ca7e" />
 
 ---
 
