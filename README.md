@@ -28,5 +28,7 @@ predict.py             # Inference on custom images
 utils.py               # Visualization tools
 
 
-<img width="1636" height="2990" alt="image" src="https://github.com/user-attachments/assets/915488fa-c746-43ba-bf28-6a94eb3721a9" />
+
+<img width="766" height="658" alt="output" src="https://github.com/user-attachments/assets/7b951b83-9ce4-46e8-8b3f-997183c95aae" />
+
 
